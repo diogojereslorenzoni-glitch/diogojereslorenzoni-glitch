@@ -11,6 +11,12 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=diogojereslorenzoni-glitch&rank_icon=github&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=diogojereslorenzoni-glitch&rank_icon=github&include_all_commits=true&theme=transparent)
 
 ##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogojereslorenzoni-glitch/diogojereslorenzoni-glitch/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogojereslorenzoni-glitch/diogojereslorenzoni-glitch/output/github-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/diogojereslorenzoni-glitch/diogojereslorenzoni-glitch/output/github-snake.svg">
+</picture>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -25,8 +31,4 @@
 </div>   
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogojereslorenzoni-glitch/diogojereslorenzoni-glitch/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogojereslorenzoni-glitch/diogojereslorenzoni-glitch/output/github-snake.svg">
-  <img alt="github snake" src="https://raw.githubusercontent.com/diogojereslorenzoni-glitch/diogojereslorenzoni-glitch/output/github-snake.svg">
-</picture>
+
