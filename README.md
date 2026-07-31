@@ -6,9 +6,14 @@
 - 📫 How to reach me: dgereslorenzoni@gmail.com
 ##
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=diogojereslorenzoni-glitch&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=diogojereslorenzoni-glitch&langs_count=4&theme=transparent)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=diogojereslorenzoni-glitch&rank_icon=github&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=diogojereslorenzoni-glitch&rank_icon=github&include_all_commits=true&theme=transparent)
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=diogojereslorenzoni-glitch&langs_count=4&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=diogojereslorenzoni-glitch&langs_count=4&theme=transparent" height="180" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api?username=diogojereslorenzoni-glitch&rank_icon=github&include_all_commits=true&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api?username=diogojereslorenzoni-glitch&rank_icon=github&include_all_commits=true&theme=transparent" height="180" />
+  </a>
+</p>
 
 ##
 <picture>
