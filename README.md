@@ -1,4 +1,4 @@
-## Hi there 👋
+Welcome to my profile; my name is Diogo Geres Lorenzoni, and I am a Brazilian student looking for opportunities.
 
 
 - 🌱 I’m currently learning Javascript, HTML, CSS, SQL and REACT. In other words, I am preparing to become a full-stack developer. 🤗
